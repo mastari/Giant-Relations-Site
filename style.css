@@ -60,7 +60,7 @@ html {
 }
 
 .navlogo {
-  width: 200px;
+  height: 46px;
 }
 
 .emailtag {
@@ -74,4 +74,8 @@ html {
 .pagebreaker {
   background-color: rgb(80, 10, 161);
   width: 25%;
+}
+
+.page-header h2 {
+  text-align: center;
 }
